@@ -33,6 +33,10 @@
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>LetsStream needs camera access for video preview.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>LetsStream needs microphone access for audio.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
 	<key>RCTNewArchEnabled</key>
